@@ -1,0 +1,36 @@
+.cork {
+  position: relative;
+  background-repeat: repeat;
+  margin: 0px;
+}
+
+/*body {
+  margin: 0px;
+}*/
+
+.kari {
+  width: 620px;
+  height: 650px;
+  position: absolute;
+  top: 200px;
+  left: 610px;
+  transform: rotate(7deg);
+}
+
+.roid {
+  background-image: url("../img/polaroid.png");
+  position: absolute;
+  height: 798px;
+  width: 660px;
+  top: 200px;
+  left: 600px;
+  transform: rotate(7deg);
+  box-shadow: -8px -12px 10px rgba(0, 0, 0, 0.3), 0px 5px 10px rgba(0,0,0,0.2);
+}
+
+.tack {
+  position: absolute;
+  height: 250px;
+  top: 30px;
+  left:680px;
+}
